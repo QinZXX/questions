@@ -1,8 +1,3 @@
----
-author: murmur wheel
-title: Go 面试题整理
----
-
 # Goroutine
 
 ## Goroutine 调度算法

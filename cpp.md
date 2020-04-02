@@ -1,8 +1,3 @@
----
-author: murmur wheel
-title: C++ 面试题整理
----
-
 # C++ 编译的流程
 
 1. 预处理，展开预编译宏。使用的 gcc 命令是：`gcc -E`
