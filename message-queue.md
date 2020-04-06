@@ -17,7 +17,10 @@
 
 # kafka
 
-1. 对 kafka 介绍得很详细的博客 http://www.jasongj.com/2015/03/10/KafkaColumn1/
+参考：
+
+1. http://www.jasongj.com/2015/03/10/KafkaColumn1/
+2. https://www.cnblogs.com/huxi2b/p/6223228.html
 
 ## kafka 是什么
 
