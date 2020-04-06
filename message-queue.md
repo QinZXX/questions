@@ -19,8 +19,8 @@
 
 参考：
 
-1. http://www.jasongj.com/2015/03/10/KafkaColumn1/
-2. https://www.cnblogs.com/huxi2b/p/6223228.html
+1. 对 kafka 高可用的介绍：http://www.jasongj.com/2015/03/10/KafkaColumn1/
+2. consumer group 内部成员管理：https://www.cnblogs.com/huxi2b/p/6223228.html
 
 ## kafka 是什么
 
